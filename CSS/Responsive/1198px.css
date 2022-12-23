@@ -1,0 +1,142 @@
+@media screen and (min-width: 1198px) {
+    
+    .co-cont2{
+
+        column-gap: 30px;
+    }
+    .picture3{
+
+        width: 555px;
+        height: 502px;
+    }
+    .fleche{
+        margin-top: 0;
+    }
+    .barre-noir{
+
+        margin-top: 20px !important;
+    }
+    .picture1,
+    .picture2{
+
+        width: 262px;
+        height: 502px;
+    }
+    .picture1-1,
+    .picture2-2{
+
+        width: 230px;
+        height: 153px;
+    }
+    .text-picture1,
+    .text-picture2{
+
+        width: 222px;
+        height: 230px;
+    }
+    .text-picture1 p,
+    .text-picture2 p{
+        
+        font-size: 19px;
+    }
+    .co-cont3{
+        width: 100%;
+    }
+    .co-cont3-g{
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .co-cont3-g .text-cont3{
+
+        width: 406px;
+        text-align: center;
+    }
+    .co-cont3-g,
+    .co-cont3-d{
+
+        width: clamp(350px, 50%,100%);
+        height: 602px;
+    }
+    .cont4-truck,
+    .cont4-bus,
+    .cont4-models,
+    .cont4-text{
+
+    width: 290px;
+    height: 490px;
+    margin-top: 0;
+   }
+   .cont4-truck-image,
+   .cont4-bus-image,
+   .cont4-models-image{
+
+    width: 260px;
+    height: 264px;
+   }
+   .cont4-truck-text,
+   .cont4-bus-text,
+   .cont4-models-text{
+
+       width: 260px;
+       height: 228px;
+   }
+   .cont5-text{
+
+    width: 261px;
+    height: 328px;
+    transform: translate(200px,-100px);
+   }
+   .cont5-image{
+
+    width: 1500px;
+    height: 500px;
+   }
+   .cont6-text{
+
+    width: 1055px;
+    height: 244px;
+   }
+   .design1,
+   .design2,
+   .design3{
+
+    width: 390px;
+    height: 532px;
+   }
+   .design1-image,
+   .design2-image,
+   .design3-image{
+
+    width: 358px;
+    height: 274px;
+   }
+   .design1-text,
+   .design2-text,
+   .design3-text{
+
+    height: 274px;
+    width: 358px;
+   }
+   .cont8-hd{
+
+    width: 555px;
+    height: 413px;
+    transform: translate(0px, -230px);
+    }
+    .cont8-hg{
+
+        width: 585px;
+        height: 206px;
+    }
+    .cont9-img1,
+    .cont9-img2,
+    .cont9-img3,
+    .cont9-img4{ 
+    
+        width: 262px;
+        height: 225px;
+     }
+}   

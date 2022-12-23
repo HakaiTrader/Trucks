@@ -1,0 +1,135 @@
+@media screen and (max-width: 576px) {
+
+   .picture1-1,
+   .picture2-2
+   {
+
+    width: 328px;
+    height: 251px;
+    background-size: cover;
+   }
+   
+   .picture1 .text-picture1,
+   .picture2 .text-picture2{
+
+    width: 328px;
+    text-align: left;
+   }
+   .picture3 p{
+
+    width: 350px;
+    font-size: 18px;
+   }
+   .picture3 h2{
+    font-size: 35px;
+    font-weight: 670;
+   }
+   .co-cont3-g{
+
+    width: 343px;
+    height: 577px;
+   }
+   .text-cont3{
+    
+    font-size: 18px;
+    line-height: 1.4;
+    width: 343px;
+   }
+   .container4{
+    margin-top: 20px;
+   }
+   .cont4-truck,
+   .cont4-bus,
+   .cont4-models{
+
+    width: 370px;
+    height: 529px;
+    margin: 10px 0px;
+   }
+   .cont4-text{
+
+    width: 370px;
+    height: 297px;
+   }
+   .cont4-text h2{
+
+    font-weight: 600;
+   }
+   .cont4-text p{
+
+    line-height: 1.4;
+    font-weight: 500;
+   }
+   .cont4-truck-image,
+   .cont4-bus-image,
+   .cont4-models-image{
+
+    width: 370px;
+    height: 327px;
+   }
+   .cont5-text{
+
+    width: 340px;
+    height: 270px;
+   }
+   .cont5-text img{
+
+    width: 570px;
+   }
+   .cont6-text {
+
+    width: 340px;
+    height: 406px;
+   }
+   .cont6-text p{
+
+    width: 328px;
+   }
+   .design1-image,
+   .design2-image,
+   .design3-image{
+
+    width: 340px;
+   }
+   .design1-text,
+   .design2-text,
+   .design3-text{
+
+    width: 340px;
+   }
+   .container8{
+
+    height: 700px;
+   }
+   .cont8-h{
+
+    flex-direction: column-reverse;
+   }
+   .cont8-hd{
+
+    transform: translate(0px, -150px) !important;
+    width: 340px;
+    height: 417px;
+   }
+   .cont8-hg{
+
+    transform: translate(0,-150px);
+   }
+   .cont9-img1,
+   .cont9-img2,
+   .cont9-img3,
+   .cont9-img4{
+
+    width: 340px;
+    height: 301px;
+   }
+   .cont9-img4{
+
+    margin-bottom: 100px;
+   }
+   .cont10-g{
+    display: flex;
+    flex-direction: column;   
+    height: auto;
+}
+}

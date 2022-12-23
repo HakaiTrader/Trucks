@@ -1,0 +1,13 @@
+@media screen and (max-width:690px){
+    .cont8-h{
+
+        justify-content: center;
+    }
+    .cont8-hd{
+        transform: translate(0px, 50px);
+    }
+    .p8,.h2bold{
+        width: 300px;
+    }
+    
+}

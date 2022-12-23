@@ -1,0 +1,142 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/font/OpenSans-VariableFont_wdth\,wght.ttf');
+}
+@media screen and (min-width: 990px) {
+    
+    .picture1,
+    .picture2{
+
+        width: 212px;
+        height: 553px;
+    }
+    .picture1-1,
+    .picture2-2{
+
+        width: 190px;
+        height: 153px;
+    }
+    .text-picture1,
+    .text-picture2{
+
+        width: 180px;
+        height: 281px;
+        line-height: 1.4;
+    }
+    .text-picture1 p,
+    .text-picture2 p{
+
+        font-family: 'OpenSans-VariableFont_wdth';
+        font-size: 18px;
+        text-align: left;
+    }
+    .picture3{
+
+        width: 455px;
+        height: 553px;
+    }
+    .text-picture3{
+
+        width: 439px;
+        height: 230px;
+    }
+    .picture3 .barre-noir{
+
+        margin-top: 46px;
+    }
+    .co-cont3-g,
+    .co-cont3-d{
+
+        width: 493px;
+        height: 606px;
+    }
+    .cont4-truck,
+    .cont4-bus,
+    .cont4-models,
+    .cont4-text{
+
+    width: 222px;
+    height: 495px;
+    margin-top: 0;
+   }
+   .cont4-truck-image,
+   .cont4-bus-image,
+   .cont4-models-image{
+
+    width: 210px;
+    height: 226px;
+   }
+   .cont4-truck-text,
+   .cont4-bus-text,
+   .cont4-models-text{
+
+       width: 210px;
+       height: 276px;
+   }
+   .cont5-text{
+
+    width: 215px;
+    height: 330px;
+   }
+   .cont5-image{
+
+    width: 1138px;
+   }
+   .cont6-text{
+    width: 940px;
+    height: 240px;
+   }
+   .cont6-text h1{
+
+    font-size: 36px;
+   }
+   .design1,
+   .design2,
+   .design3{
+
+    width: 300px;
+    height: 614px;
+   }
+   .design1-image,
+   .design2-image,
+   .design3-image{
+
+    width: 300px;
+    height: 284px;
+   }
+   .design1-text,
+   .design2-text,
+   .design3-text{
+
+    height: 400px;
+    width: 300px;
+   }
+   .cont9-img1,
+   .cont9-img2,
+   .cont9-img3,
+   .cont9-img4{ 
+   
+       width: 212px;
+       height: 225px;
+    }
+    .cont8-h{
+
+        height: 240px;
+    }
+    .cont8-hg{
+
+        width: 469px;
+        height: 227px;
+    }
+    .cont8-hg .p8{
+
+        font-size: 19px !important;
+    }
+    .cont8-hd{
+
+        width: 455px;
+        height: 433px;
+        transform: translate(0px, -230px);
+    }
+
+}
