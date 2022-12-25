@@ -13,6 +13,9 @@
     font-family: 'Oswald', sans-serif;
     font-weight: 500;
 }
+body{
+    overflow-x: hidden;
+}
 
 header .nav{
 
